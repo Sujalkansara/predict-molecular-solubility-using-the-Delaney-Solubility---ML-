@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 
 # App title and description
-st.title("Molecular Solubility Predictor")
+st.title("Molecular Solubility Predictor ML model - SujalKansara")
 st.write("Enter molecular features to predict aqueous solubility (logS) using Linear Regression or Random Forest models trained on the Delaney Dataset.")
 
 # Load models
