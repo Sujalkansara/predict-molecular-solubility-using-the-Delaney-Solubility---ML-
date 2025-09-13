@@ -54,7 +54,7 @@ Compared MSE and R² scores. Random Forest typically outperformed Linear Regress
 ## Installation
 
 - Clone the repository:
-``` git clone https://github.com/Sujalkansara/predict-molecular-solubility-using-the-Delaney-Solubility---ML-.git```
+``` git clone https://github.com/Sujalkansara/predict-molecular-solubility-using-the-Delaney-Solubility-ML-.git```
 
 - Install dependencies:
 ```pip install pandas numpy scikit-learn matplotlib seaborn```
